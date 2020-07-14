@@ -1,6 +1,6 @@
 # koitt03_web_1
-웹웹웹웹
-
+cookit front작업
+koitt 민석 동수 미선 준희(3조)
 
 <필수>
 로그인(input)
